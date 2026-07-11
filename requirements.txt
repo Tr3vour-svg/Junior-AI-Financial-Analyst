@@ -10,10 +10,10 @@ pydantic-settings==2.4.0
 # ============================================================================
 # AI & Multi-Agent Orchestration (LangChain/LangGraph)
 # ============================================================================
-langchain==0.3.0
-langgraph==0.2.0
-langgraph-checkpoint==1.0.0
-langchain-openai==0.2.0
+langchain
+langgraph
+langgraph-checkpoint
+langchain-openai
 
 # ============================================================================
 # Vector DB & Retrieval Optimization (RAG)
